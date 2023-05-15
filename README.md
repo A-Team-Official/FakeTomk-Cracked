@@ -5,9 +5,15 @@
 
 [Tomk-OpenSrc]: https://github.com/A-Team-official/Tomk-OpenSource
 
-English: Tomk using the GPL-3.0 license, they use the code and sell it, which is a violation of the agreement
+English: Tomk using the GPL-3.0 license, they use the code and sell it, which is a violation of the agreement, all cracked will be updated in Release
 
-中: Tomk 使用了GPL-3.0 license，他们使用其中的代码并且售卖，这违反了协议
+中: Tomk 使用了GPL-3.0 license，他们使用其中的代码并且售卖，这违反了协议，所有破解将在Release更新
+
+### Safety
+
+English: All cracking in this warehouse is to add any back door, viruses and other computer programs, do not exclude the jar ontology carried, please use caution
+
+中: 此仓库中的所有破解均为添加任何后门，病毒等侵害计算机的程序，不排除jar本体所携带，请谨慎使用
 
 ### Others
 
