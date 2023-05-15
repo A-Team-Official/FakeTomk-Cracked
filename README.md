@@ -11,9 +11,9 @@ English: Tomk using the GPL-3.0 license, they use the code and sell it, which is
 
 ### Safety
 
-English: All cracking in this warehouse is to add any back door, viruses and other computer programs, do not exclude the jar ontology carried, please use caution
+English: All cracked in this warehouse does not add any back door, viruses and other computer programs, does not exclude the jar ontology carried, please use caution
 
-中: 此仓库中的所有破解均为添加任何后门，病毒等侵害计算机的程序，不排除jar本体所携带，请谨慎使用
+中: 此仓库中的所有破解均未添加任何后门，病毒等侵害计算机的程序，不排除jar本体所携带，请谨慎使用
 
 ### Others
 
